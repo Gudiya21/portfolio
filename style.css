@@ -1,0 +1,66 @@
+#bg{
+    background-color: rgb(236, 223, 208);
+    height: 260px;
+    width: 1300px;
+}
+#porb{
+    background-color: aquamarine;
+}
+#img{
+    height: 250px;
+    width: 200px;
+    border-radius: 50px;
+    
+}
+#name{
+    position: relative;
+    left: 280px;
+    bottom: 240px;
+    font-size: 50px;
+}
+#git{
+    height: 30px;
+    position: relative;
+    left: 1055px;
+    bottom: 420px;
+}
+#link{
+    position: relative;
+    left: 1045px;
+    bottom: 430px;
+}
+#linked{
+    height: 40px;
+    position: relative;
+    left: 960px;
+    bottom: 390px;
+
+}
+#linkin{
+    position: relative;
+    left: 955px;
+    bottom: 405px;
+}
+#details{
+    position: relative;
+    left: 1070px;
+    bottom: 392px; 
+}
+#bio{
+    position: relative;
+    left: 282px;
+    bottom: 350px;
+}
+#txt{
+    color: blue;
+}
+#box{
+    background-color: rgb(238, 220, 201);
+    width: 0px;
+    padding: 200px;
+    margin: 20px;
+    position: relative;
+    bottom: 345.50px;
+    left: -19px;
+  }
+
